@@ -54,3 +54,5 @@ gem 'jquery-ui-rails', '~> 4.2.1'
 # uploader
 gem 'carrierwave', '~> 0.9'
 
+gem 'rails_12factor', group: :production
+
